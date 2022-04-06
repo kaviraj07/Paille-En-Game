@@ -15,3 +15,5 @@ You are to develop a simple 2D game on HTML5/ javascript. Your game should have 
 2. Yuvraj Seegolam
 3. Jason Henri
 4. Arun Deerpaul
+
+## Link: [Play Game](https://kaviraj07.github.io/Paille-En-Game/)
